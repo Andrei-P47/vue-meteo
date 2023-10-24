@@ -34,7 +34,7 @@ export default {
 
 <template>
   <div class="wrapper">
-    <h1>Meteo</h1>
+    <h1>Meteo 2</h1>
     <p>
       Verifica temperatura in
       {{ city === "" ? "Orasul tau" : cityName }}
